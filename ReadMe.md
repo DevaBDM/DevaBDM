@@ -1,7 +1,3 @@
-# GitHub Profile
-
-## Introduction
-
 I builds practical systems at the intersection of embedded software, cross-platform applications, and networked infrastructure. Working with C++, C, Python, JavaScript, and Qt/QML, the focus is on systems that operate outside a demo environment — offline-capable, power-efficient, and deployable at scale.
 
 ## What I Build
@@ -33,12 +29,11 @@ I builds practical systems at the intersection of embedded software, cross-platf
 
 ## Selected Repositories
 
-| Repository                                                                           | Status                                                        |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| [WLDU App](https://github.com/DawitBerhan/WLDU-App)                                  | Qt 6/QML university platform (Windows/Android, offline-first) |
-| [Smart Digital Signage System](https://github.com/DawitBerhan/Smart-Digital-Signage) | Raspberry Pi networked display with environmental sensing     |
-| [SLF-EWN](https://github.com/DawitBerhan/SLF-EWN)                                    | LoRa-based landslide/flood early-warning network              |
-| Browser Automation Extension                                                         | Manifest V3 dynamic interface automation                      |
+| Repository                                                                                   | Status                                                        |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [WLDU App](https://github.com/DevaBDM/WLDU-APP)                                              | Qt 6/QML university platform (Windows/Android, offline-first) |
+| [Smart Digital Signage System](https://github.com/DevaBDM/Smart-Signage-System)              | Raspberry Pi networked display with environmental sensing     |
+| [Subterranean Landslide and Flood Early-Warning Network](https://github.com/DevaBDM/SLF-EWN) | LoRa-based landslide/flood early-warning network              |
 
 ## Current Focus
 
